@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu_Console", "Jeu_Console\Jeu_Console.csproj", "{76C17B9A-6C30-42A1-A690-65DC33356956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL", "DLL\DLL.csproj", "{F5B3E108-CB25-4915-9860-FF75DDF0E909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu_Graph", "Jeu_Graph\Jeu_Graph.csproj", "{097C0733-6E10-41C9-94A1-4D19A9B48473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C17B9A-6C30-42A1-A690-65DC33356956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C17B9A-6C30-42A1-A690-65DC33356956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C17B9A-6C30-42A1-A690-65DC33356956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C17B9A-6C30-42A1-A690-65DC33356956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B3E108-CB25-4915-9860-FF75DDF0E909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B3E108-CB25-4915-9860-FF75DDF0E909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B3E108-CB25-4915-9860-FF75DDF0E909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B3E108-CB25-4915-9860-FF75DDF0E909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097C0733-6E10-41C9-94A1-4D19A9B48473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097C0733-6E10-41C9-94A1-4D19A9B48473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097C0733-6E10-41C9-94A1-4D19A9B48473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097C0733-6E10-41C9-94A1-4D19A9B48473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {571D9C63-157E-400D-93D8-8089E62B725C}
+	EndGlobalSection
+EndGlobal
